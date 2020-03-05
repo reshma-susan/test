@@ -1,0 +1,147 @@
+{
+   "checksum": "d0849b39c214a422568f101ff1222278",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13211272467790624",
+            "guid": "500fb35f-f9e7-4351-8750-150e5a409d08",
+            "id": "5",
+            "name": "Spring & Hibernate for Beginners (includes Spring Boot) - Download Udemy Courses For Free | freetutorials.us",
+            "type": "url",
+            "url": "https://www.freetutorialsus.com/spring-hibernate-for-beginners-includes-spring-boot-udemy-course-free-download/"
+         }, {
+            "date_added": "13222090118096449",
+            "guid": "48ce661f-f582-4200-aaf8-730b25d5afca",
+            "id": "6",
+            "name": "JavaScript Tutorial",
+            "type": "url",
+            "url": "https://www.w3schools.com/js/"
+         }, {
+            "date_added": "13222090126444374",
+            "guid": "3fa99e24-0fd4-4b2a-b70c-a2cc8da18cd2",
+            "id": "7",
+            "name": "HTML Tutorial",
+            "type": "url",
+            "url": "https://www.w3schools.com/html/default.asp"
+         }, {
+            "date_added": "13222090133749302",
+            "guid": "63ac4f93-9581-4760-a3e9-6482ba6f0d9c",
+            "id": "8",
+            "name": "CSS Tutorial",
+            "type": "url",
+            "url": "https://www.w3schools.com/css/default.asp"
+         }, {
+            "date_added": "13222090573299456",
+            "guid": "da428547-bd8b-4b59-b026-a48251ba67e0",
+            "id": "9",
+            "name": "Expense lite",
+            "type": "url",
+            "url": "http://40.115.143.62/expense/manage"
+         }, {
+            "children": [ {
+               "date_added": "13222094579874501",
+               "guid": "da6a9afe-8b9c-4893-93b2-c54194a613fb",
+               "id": "11",
+               "name": "HTTP request methods - HTTP | MDN",
+               "type": "url",
+               "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods"
+            }, {
+               "date_added": "13222095220749887",
+               "guid": "c0b59b0f-3775-4a2c-966f-b7e33c517f32",
+               "id": "12",
+               "name": "JSONLint - The JSON Validator",
+               "type": "url",
+               "url": "https://jsonlint.com/"
+            }, {
+               "date_added": "13222095225197797",
+               "guid": "664cafdb-ef57-4bae-8823-6188af67798b",
+               "id": "13",
+               "name": "JSON Web Tokens - jwt.io",
+               "type": "url",
+               "url": "https://jwt.io/"
+            }, {
+               "date_added": "13222095231053806",
+               "guid": "5b531d40-a0ca-4588-a516-dc66c134f5ad",
+               "id": "14",
+               "name": "Cross-Origin Resource Sharing (CORS) - HTTP | MDN",
+               "type": "url",
+               "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS"
+            }, {
+               "date_added": "13222095236555055",
+               "guid": "d2f7c890-61f2-4208-9a06-60bcd2d42e4a",
+               "id": "15",
+               "name": "HTTP Methods GET vs POST",
+               "type": "url",
+               "url": "https://www.w3schools.com/tags/ref_httpmethods.asp"
+            } ],
+            "date_added": "13227864729583080",
+            "date_modified": "13227864729583080",
+            "guid": "8e4f19e7-b4f5-4f2d-9579-665ff5986e43",
+            "id": "10",
+            "name": "HTML",
+            "type": "folder"
+         }, {
+            "date_added": "13222168743321278",
+            "guid": "e5778989-61fa-4ea1-930a-cb216eab45c5",
+            "id": "16",
+            "name": "Kolab Now",
+            "type": "url",
+            "url": "https://kolabnow.com/"
+         } ],
+         "date_added": "13227864654405650",
+         "date_modified": "13222168743321278",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13227864654405666",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13208280517568449",
+            "guid": "dad12890-a2db-4ecd-8a7a-06218eed3c92",
+            "id": "17",
+            "name": "https://ibegin.tcs.com/iBegin/",
+            "type": "url",
+            "url": "https://ibegin.tcs.com/iBegin/"
+         }, {
+            "date_added": "13208333034749471",
+            "guid": "51f772ef-7fb3-4464-9894-a40633543996",
+            "id": "18",
+            "name": "Wipro Off Campus Recruitment Drive | BE/BTech/BSC/BCA/BCOM/BA | Across India - Apuzz Jobs",
+            "type": "url",
+            "url": "https://apuzz.com/wipro-off-campus-recruitment-july-2019/amp/"
+         }, {
+            "date_added": "13210626195280244",
+            "guid": "ffe7a00a-f51c-45cf-851d-ca7cc5c63fba",
+            "id": "19",
+            "name": "https://www.vssc.gov.in/VSSC/images/RECRUITMENT/Technician7.9.18.pdf",
+            "type": "url",
+            "url": "https://www.vssc.gov.in/VSSC/images/RECRUITMENT/Technician7.9.18.pdf"
+         }, {
+            "date_added": "13210626221200330",
+            "guid": "08ab87c9-17f4-4d7b-ad87-1d8c099c1f79",
+            "id": "20",
+            "name": "ISRO Apprenticeship 2019 for Engineers: VSSC Postpones Hiring of 158 Technician Apprentices to September 2019DATAQUEST",
+            "type": "url",
+            "url": "https://www.dqindia.com/isro-apprenticeship-2019-engineers-vssc-postpones-hiring-158-technician-apprentices-september-2019/"
+         } ],
+         "date_added": "13227864654405669",
+         "date_modified": "13210626221200330",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CugBCscBCIiBAhLAARKMAQgCEk4KBgoCYm0QARAzGhIJAGjx6hWgBQAhAGjx6hWgBQAiFAkIUWr6FaAFABAJGdMtG8jzPYvAMhgKFggCEdGCh/oVoAUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgkAaPHqFaAFACEAaPHqFaAFADIYChYIAhHRgof6FaAFABgAIQAAAAAAAAAAIAAyHzh4UWhIY2xuNGo4V1VFRXliUlkxdW5UMHA1Q1hDaGNI89vdy4oucPPb3cuKLhIAIAEqGExXcHQwc1lKN3FPWUpvYkNVUWJnVFE9PRKKAggIEoUCEqYBWjpBRHF0QVp3T1pWd1lMNTlwMzRaSzlZY2FvWEp3Y1RjK2lsWkQxOUNWU3hNNHZnQWV3RVlNbEs2R1RZUjhBODdFMkpSSG5CTjNBNkV6YWxLV2FnYk9NMlNlL1g0bHFPVlkzaExPTXZwVkhjL0pBRmhWV2tZOVFjR1MvSEFjejVFa2p5aHF5RG04aU44OWRycGRIVkN1a2hWU0EyNGcvU25nNGc9PRgAIAIoAjCHoqnT34LoAjj10ZeK9S1Aj4Xdy4ouShxBTmdLZWJsWDFyZS9RcUhpL3QySmVrR2NtemM9Wh8iHepJWE42dlpXU2REZEZRTHZIa3A1VUo0OW8wOGM9EooCCAcShQISpgFaOkFEcXRBWndPWlZ3WUw1OXAzNFpLOVljYW9YSndjVGMraWxaRDE5Q1ZTeE00dmdBZXdHcFhTSlZQdWc2dlN2b1pDcDFQMldsZ1h3VUdUVmZtVmVBQkppNEVzU0R2M2hSclJkSGRwSUkxSXIxbE1TODczaW5qSDVFaDExNWNYakRER2xkNnFrNmVjODk2Mk5lMmZQcjVtRHlqbXNxN20rNmpGZz09GAAgAigCMIeiqdPfgugCOOyYl4r1LUCOhd3Lii5KHDQwREVYUmRHSU9rY21zSzlQN2c1TzlsN0JxYz1aHyId1XpCeFVhWkJwUURVQVZZTUVwd0hLS0Ruc2tTcz0SigIICRKFAhKmAVo6QURxdEFad09aVndZTDU5cDM0Wks5WWNhb1hKd2NUYytpbFpEMTlDVlN4TTR2Z0Fld0lNSUg0RTQydXIzdVFVcTBrOCszQkY2T1hNck9Nd1RyeU9DZ2Z0Vi9UWVgvTWlYRWEwbFg3cjVIWkFPOWMwTGV2RFBNR2crbUJlZ1EydkltV3E5SVYyQXE5aWk5WHBESk1yWUpDdm5Zc25sR080Q2pRPT0YACACKAIwh6Kp09+C6AI487uyivUtQJCF3cuKLkocNkhYcTkvTDZqT0tuQ2FjZEpwMTlBSmp3NHNrPVofIh31d2IraWVQcko5ZlFlREgvMWhDdlRBSWJxd3lZPRKKAggGEoUCEqYBWjpBRHF0QVp3T1pWd1lMNTlwMzRaSzlZY2FvWEp3Y1RjK2lsWkQxOUNWU3hNNHZnQWV3T0pJY3hXSmV6cEtzNlVFL2dkOXdRWVY5V21tck8zY2NRU3ZGZTJJWHhwd01iS09xSERnUFB6QWRIN29wY1ppTUFpemViV1lqVm52cnBqVkNOcVFjWGFTdHVVNHZoSVBkOFpwZ0RyUG5VSmlDbXlaS3c9PRgAIAIoAjCHoqnT34LoAjjQ15aK9S1AjIXdy4ouShxjRjlNYnVpeFM2d0xudGR0VmkwcVk0UU92NUU9Wh8iHao5RmNMUm0rUWRXYmk0ZWQvRk5jUmlDbDJMNEE9EooCCBAShQISpgFaOkFEcXRBWndPWlZ3WUw1OXAzNFpLOVljYW9YSndwSXFLck5xaWsvbkFtTU0wby9LUHNTNTRjTnREY3QydFN6UkpjemFmVHJDQ0VwVWhXTXdmY043V1lLZHFEZVFzWVpUSkJrMVlvaytDMHRGdHNWUVVKeUdqdmk5S2ZETzBhbjh2UHdwRW92ajY1aVluTnU3d05sdlExdHM0OWZNUXh6OVdVUT09GAAgAigCMIeiqdPfgugCOLrY1q/1LUCVhd3Lii5KHGNMdjhZZlMvd3pNaDFwR3lnK0J0QVZibFRkQT1aHyId/jh0cTNGejVvanpMT1QzSDZmd0ZVbnRWUndaWT0SiQIIDRKEAhKmAVo6QURxdEFad09aVndZTDU5cDM0Wks5WWNhb1hKd3BJcUtyTnFpay9uQW1NTTBvL0tQc1VsaVRWaEE0c0c5OS8wNlpSZFp4QU0rTHZQRzhGV2wwTGM4ZkIzMzZnRlM1ZlVQL1JRS0Y0empwOFF0aGQ4eEFkTjhSY2huUFZwbExWTWtjcHFreXlkTGZFMUZXTkVDMUkyQ0h2SmJQaDRtSWluS1l3PT0YACAAKAAw3LT3xvzc5gI4utjWr/UtQLrY1q/1LUocdGtrL1JQV0FjbkNnSDJ2NGhLemFRUDh2VXJ3PVoeIhxmTmdEWGZYOHJmRy9iWnNCTHk5ZXpTOGhhZms9EooCCA8ShQISpgFaOkFEcXRBWndPWlZ3WUw1OXAzNFpLOVljYW9YSndwSXFLck5xaWsvbkFtTU0wby9LUHNVckZUNFRPSEpYOG1GaUhsUVM0MlMwVHNudG11RXdjb1c1Y0NBTXR3RkFKT1NOT0o4MGtSNENtekhHTC9mQkU2WGpmNndrak11c0VSTHhvVkFuankwSFVENlNKbXdNUWIyOE1tSDlYMnRUVy9tWElLQT09GAAgACgAMNy098b83OYCOLrY1q/1LUC62Nav9S1KHDZBRTRXWDIyT1U5SjhmcFh4WEI5eStTclkxST1aHyId2VVRNXJkOFdYcVZHbGVPcnFIYXBRM2VGSzhIND0SigIIChKFAhKmAVo6QURxdEFad09aVndZTDU5cDM0Wks5WWNhb1hKd3BJcUtyTnFpay9uQW1NTTBvL0tQc1hDSnhwMEhQbzhPOEk1WXdiTHhUb2dsUlZ5b3BhTWVLa2pBNHkveUZRRmZyc0ppR0RGWnlwS3BGNTNkbzNsUStjOVp3UEVUTExOak0rVWE4WkZBRzZzekQvNlB0QXNVUHpzemloNjVNWlUxVlFzVHlnPT0YACAAKAAw3LT3xvzc5gI4utjWr/UtQLrY1q/1LUocb1QvMVZmOUZkZnFVZG1RZ2VvcE5QYjRURDNNPVofIh36U2tkaFZMUloyeFJNbUVhUE81VmFLM29qOFBjPRKJAggLEoQCEqYBWjpBRHF0QVp3T1pWd1lMNTlwMzRaSzlZY2FvWEp3cElxS3JOcWlrL25BbU1NMG8vS1BzWHByRXROS2xXbUZIN1VXWUVNNzhyL21OWGh5NG8vZ2FoQU5sNzNFeFRIczI0WE1XTEJWYlhySVRzdkkzVHBDZmlTczJJSHJhMndmZWlrQ1BLSGN3aVlXU3lLQkhaYThPTXhSaFVQZkgyQVA5L2V6UEE9PRgAIAAoADDctPfG/NzmAji62Nav9S1AutjWr/UtShxncjlIZDU4bXloMTBQVE1uelFVeDRBRW5hZWs9Wh4iHEIyalJFbkhVL0Z5cmZ5dThsQlE2TEJDSERKcz0SigIIDhKFAhKmAVo6QURxdEFad09aVndZTDU5cDM0Wks5WWNhb1hKd3BJcUtyTnFpay9uQW1NTTBvL0tQc1pPVFRKZ2xlNjdhZHVWeDNuTmJhNENHWWpkV1Z4QzRvRURGUktjNHNsZXVOdFFKZUZBS1hXVHBoRTd1SlRxcXRyS2NyeXg3bm5Zb1FNMzdhMkd2MENmMllMQ1ZSemFPOVB0OHcwTkZTbWZ2NWk4ZTh3PT0YACAAKAAw3LT3xvzc5gI4utjWr/UtQLrY1q/1LUocbEtPNlB5dXExQzRoTlV4YmZ6MEtCMVBvRzc4PVofIh2zVFIyWEZzeG1KaHJ3Q1hYMnZoNnhnMHk4N1ZRPRKJAggMEoQCEqYBWjpBRHF0QVp3T1pWd1lMNTlwMzRaSzlZY2FvWEp3cElxS3JOcWlrL25BbU1NMG8vS1BzZG5jODZZQ1U3ZG9rYndLMWo3VENOajMvbEhFMjlMOGFsdHdqTllqdnFza2tFTWhCYXpid2hDdUpJODFMd295N2JYVlM1dy9acUxGMGp2S1hTWHgzL0kyTWVEazBzZjZZdk5mZ0c3ZE0xUXpBT2FWQXc9PRgAIAAoADDctPfG/NzmAji62Nav9S1AutjWr/UtShxPclBqNkdHN080TVFJT2cwaURlL1ROanpuV2s9Wh4iHENDYlovYnhYbi9MTEs0NWZjZ081SWRhTnRoQT0SigIIEhKFAhKmAVo6QURxdEFad09aVndZTDU5cDM0Wks5WWNhb1hKd3FEcDJyc2xDcFI4VjRibWk3cEpsbzEyM2g2TG1rdkxIRmlvSVlDbi9zZHBNdURDZGk2ejRXOEZ0OFprSEVocVFCUGpoZXczeFBEdi9Yb0xoa3lCU1A1aUsra1Q1RjJ2bnBNVE9qREM4cVUySnY4dyt2SlRoU010OUZFb3RoejNMbGsvV2d3PT0YACAAKAAwwJiLsqbK4wI4/vmk6sEtQP75pOrBLUoccEd1c1VXWHBtMlhBT25CTTh1MVc3cUJTdzR3PVofIh23SjBrZE1WOVowV21VZ0dKRXdmb1cyTzJBVzZvPRKKAggTEoUCEqYBWjpBRHF0QVp3T1pWd1lMNTlwMzRaSzlZY2FvWEp3cURwMnJzbENwUjhWNGJtaTdwSmxvM2Z0VFNRbURlM0YrWkpzd1pLN2ZWNGZaQmtyelpSWEpvZFQxMllMWXgybmMwd2VrdzNkbjdIMFJyYmRpeXNmZHJPWXQxanF5ZWlrcTI2YVNzS2Y4bXBCb25XR1U3citGbzNOa25FVzVkUkI4OTVWdHc9PRgAIAAoADCiw6iKhY3kAjjSruCvyi1A0q7gr8otShxSNzRpc3ExT3dyUE44OVNtenFBdXdFMTl1K0U9Wh8iHdtrWmNXN0VIQnhzeWMyR1haVm5pOTFFTWtUTlE9EokCCBEShAISpgFaOkFEcXRBWndPWlZ3WUw1OXAzNFpLOVljYW9YSndxRHAycnNsQ3BSOFY0Ym1pN3BKbG83VlQxR3g4djJYMG0rZGpGN2h5cC9xNXdHWkl2aGNILzd3cnRNdnAwN29QUEZzL3p1dFRnT1pMZEMwWTRkMmRhYUJaK24vNHYyTjM1SC9pbkFBdUZtN0xJbFFIM09VS1JoTHRJTVBxbW5GQ1R4SVdKZz09GAAgACgAMIfYkODiyOMCOMTHn9HBLUDEx5/RwS1KHDF2YVRmZWFyK3h5TXZLN2hOdWpRNDk4eFEwST1aHiIcbmtDd2RGWGcwOHNQL0pDWnRVN2ZJWUxCVHp3PRKKAggUEoUCEqYBWjpBRHF0QVp3T1pWd1lMNTlwMzRaSzlZY2FvWEp3cURwMnJzbENwUjhWNGJtaTdwSmxvOGxjNXd0MEJlODVXNVN5RFdvU3hwSEdvempiSFM1dVE0N0Q5TWI1Vzk4d1dTWjREU1A5UWJIK3cvT0lUelEwaFFGckFTeUY1V3J1QjNnMkpyT1RiOXROV3ZJMVBndS9vS3UydDBwa3E0NTl3dnZUQWc9PRgAIAAoADCavKWVhY3kAjiR+eGvyi1Akfnhr8otShxXL3VkdUQzMGkrMGRnK1NlMU5HU0NNUnVSNHc9Wh8iHe0wWGUwemFoRnNERTdzSkJRNGxoRDFWb1ZTcTQ9EokCCAUShAISpgFaOkFEcXRBWndPWlZ3WUw1OXAzNFpLOVljYW9YSnd2Ukx3WW9JWEs2dDcwZ25rZGxBMzQzQWsrdHBHQWpIK3oxT1NrMmtpdEplT1IrT0FjQzRjcmVxZUZ6UTJaY2dmWmdkNlJYWTd5bnVuV1o4UnIwUEVSY0FRcWNjNkxOZmowUmFKRW9KUlkxSlI1WkxLL2pNTDc0a1hSblNlZENaTWZRdEpaQT09GAAgAigCMIeiqdPfgugCONe/l+nMLUCLhd3Lii5KHHRxcTQvZ2pQRzBWUUNhTjBpc1YwajFEdkZzTT1aHiIcVVkxWTFxNTJlQmp3WnRaVHhzblp4Z3ZjU3EwPRLGAQgCEsEBEmZaOkFEcXRBWng5UGlTN1hTQ3NxWkdybzhFYitjOWI2UjB3dTVBZVRFSmhDbTFTUVJ1QVZ4ZjhxeEQvV0ZQQjlVVGNkZ1kyOVF6ZjQ3aU9MSzc4dnZidWdHV0dybjNoOGtweGlBPT0YACAAKAAwjbaYzd+C6AI4AEAAShw1dXN5L2NwZnBpMUV0b0JIRGdYSXMwcWI0ckE9WiYiJIAAAAAAAAAAfGE/C5QL1/JuzB0lgnRxn22Ip8CBApJ4SRvCfxKuAQgBEqkBEk5aOkFEcXRBWnk2MHRzQVRkUTlKWjVtTkZySHBBTEVWYWZublNHV0ltRlFkZnpReUY1OVFHeWR0NVJHZElyOWM3K2N6OWRGR2piTlFnYnAYACAAKAAwjbaYzd+C6AI4AEAAShxVK0dHSXRaRURwWnNJU2xPVWFJVHVJTGRNbkk9WiYiJIAAAAAAAAAA6N5c6ZXFeyq5N3EiF5RPbGShWGIe75iRmoyXfxLGAQgDEsEBEmZaOkFEcXRBWnlCR00rc1lJRkQ5UVJLUExmRUZ1Yng3RWJBKzFON09Fck5qZVhqUk1xaUFFbSt0ejJLWXdIaUhMRm1sdzc3T2FVL01wTWljMmVVR0pvdk1HL0JVa3p6ZXNhZXlBPT0YACAAKAAwjbaYzd+C6AI4AEAAShw3OWwrTFJFVXBpYUV2REQrRzQzY3BYU3R3QmM9WiYiJIAAAAAAAAAASlyiKnOLgA3OeWf1sBnB3NT2G5+UqdYCxaLpfw==",
+   "version": 1
+}

@@ -1,0 +1,13 @@
+logrotate state -- version 2
+"/home/reshma/.cache/upstart/unity7.log" 2020-3-5-12:7:4
+"/home/reshma/.cache/upstart/unity-panel-service.log" 2020-3-5-12:7:4
+"/home/reshma/.cache/upstart/unity-settings-daemon.log" 2020-3-5-12:7:4
+"/home/reshma/.cache/upstart/upstart-event-bridge.log" 2020-3-5-12:7:4
+"/home/reshma/.cache/upstart/indicator-sound.log" 2020-3-5-12:7:4
+"/home/reshma/.cache/upstart/bamfdaemon.log" 2020-3-5-12:0:0
+"/home/reshma/.cache/upstart/window-stack-bridge.log" 2020-3-5-12:7:4
+"/home/reshma/.cache/upstart/dbus.log" 2020-3-5-12:7:4
+"/home/reshma/.cache/upstart/ssh-agent.log" 2020-3-5-12:7:4
+"/home/reshma/.cache/upstart/gnome-keyring-ssh.log" 2020-3-5-12:7:4
+"/home/reshma/.cache/upstart/hud.log" 2020-3-5-12:0:0
+"/home/reshma/.cache/upstart/gpg-agent.log" 2020-3-5-12:7:4
